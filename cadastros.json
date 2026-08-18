@@ -360,7 +360,8 @@
       "sexo": "Macho",
       "raca": "SRD / Vira-lata (Sem Raça Definida)",
       "idade": "7 meses",
-      "peso": "5"
+      "peso": "5",
+      "temperamento": "Dócil"
     },
     "arquivos": {
       "rg": "https://raw.githubusercontent.com/Theuspython/formularios/main/comprovantes/PP-012_RG_1787065329490.jpg",
