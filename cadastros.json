@@ -1553,7 +1553,10 @@
       "rgNome": "PP-049_RG_1787156879563.jpg",
       "residenciaNome": "PP-049_RESIDENCIA_1787156862293.jpg",
       "pathRg": "comprovantes/PP-049_RG_1787156879563.jpg",
-      "pathResidencia": "comprovantes/PP-049_RESIDENCIA_1787156862293.jpg"
+      "pathResidencia": "comprovantes/PP-049_RESIDENCIA_1787156862293.jpg",
+      "fichaAssinada": "https://raw.githubusercontent.com/Theuspython/formularios/main/comprovantes/PP-049_FICHA_ASSINADA_1787156898675.jpeg",
+      "pathFichaAssinada": "comprovantes/PP-049_FICHA_ASSINADA_1787156898675.jpeg",
+      "fichaAssinadaNome": "PP-049_FICHA_ASSINADA_1787156898675.jpeg"
     }
   }
 ]
