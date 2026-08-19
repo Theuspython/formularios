@@ -1517,11 +1517,11 @@
     },
     "arquivos": {
       "rg": "https://raw.githubusercontent.com/Theuspython/formularios/main/comprovantes/PP-048/PP-048_RG_1787152279525.png",
-      "residencia": "https://raw.githubusercontent.com/Theuspython/formularios/main/comprovantes/PP-048_RESIDENCIA_1787152219106.jpg",
+      "residencia": "https://raw.githubusercontent.com/Theuspython/formularios/main/comprovantes/PP-048/PP-048_RESIDENCIA_1787152344090.png",
       "rgNome": "PP-048_RG_1787152279525.png",
-      "residenciaNome": "PP-048_RESIDENCIA.jpg",
+      "residenciaNome": "PP-048_RESIDENCIA_1787152344090.png",
       "pathRg": "comprovantes/PP-048/PP-048_RG_1787152279525.png",
-      "pathResidencia": "comprovantes/PP-048_RESIDENCIA_1787152219106.jpg"
+      "pathResidencia": "comprovantes/PP-048/PP-048_RESIDENCIA_1787152344090.png"
     }
   }
 ]
